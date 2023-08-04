@@ -60,15 +60,15 @@ body {
 }
 
 .apresentacao__links__botao{
-    background-color: #22d4fd; /*Colocando cor de fundo no texto */
-    width: 280px; /*Mudando a largura do texto */
+    border: 2px solid #22d4fd; /*Adicionando uma borda no texto*/
+    width: 378px; /*Mudando a largura do texto */
     text-align: center; /*Alinhando texto do botão */
-    border-radius: 16px; /*Arredondamento da borda */
+    border-radius: 8px; /*Arredondamento da borda */
     font-size: 24px; /*Mudando o tamanho da fonte */
     font-weight: 600; /*Peso da fonte  */
     padding: 21.5px 0; /*Afastamento da fonte com o botão*/
     text-decoration: none; /*Retirando decoração do texto */
-    color: #000; /*Definindo cor do exto */
+    color: #f6f6f6; /*Definindo cor do exto */
     font-family: 'Montserrat', sans-serif; /*Inserindo a fonte desejada */
 
 }
